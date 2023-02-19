@@ -10,5 +10,5 @@ function checkleapyear(year)
     console.log(year + ' is not a leap year');
   }
 }
-let year= parseInt(prompt('Enter the year: ));
+let year= parseInt(prompt('Enter the year: '));
 checkleapyear(year);
